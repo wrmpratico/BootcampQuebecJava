@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjetoPratico/BancoDigital/BancoDigital.iml" filepath="$PROJECT_DIR$/ProjetoPratico/BancoDigital/BancoDigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootcampQuebecJava.iml" filepath="$PROJECT_DIR$/BootcampQuebecJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoPratico/ProjetoPratico.iml" filepath="$PROJECT_DIR$/ProjetoPratico/ProjetoPratico.iml" />
+    </modules>
+  </component>
+</project>
